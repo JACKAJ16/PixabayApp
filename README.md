@@ -2,6 +2,8 @@ App is fetching data from Pixabay API.
 
 Search anything you like and you will get a list of pictures found on a Pixabay.
 
+Demo: https://jackaj16.github.io/PixabayApp/
+
 ### `How to start this app on your computer`
 
 - Clone or download directory
